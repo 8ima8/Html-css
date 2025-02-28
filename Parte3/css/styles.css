@@ -1,0 +1,66 @@
+.caja_primera {
+    background-color: blue;
+    width: 700px;
+    height: 200px;
+    padding: 30px;
+    text-align: center;
+    margin: auto;
+    border-width: 10px;
+    border-color: rgb(162, 11, 51);
+    border-style:solid;
+    border-radius: 5px;
+}
+
+.formulario{
+
+    background-color: blueviolet;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+.formulario_input{
+    padding: 6px 10px;
+    width: 100%;
+}
+.formulario_submit{
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    width:70%
+}
+
+.box1{
+    box-sizing: border-box;
+    background-color: rgb(208, 186, 19);
+    width: 300px;
+    height: 100px;
+    padding: 25px;
+    border: 10px solid black;
+    margin: 10px;
+    text-align: center;
+    letter-spacing:5px;
+}
+.box2{
+    box-sizing: content-box;
+    background-color: hsl(0, 68%, 29%);
+    width: 300px;
+    height: 100px;
+    padding: 25px;
+    border: 10px solid black;
+    text-align: center;
+    
+}
+
+.boxprueba{
+    background-color: #ededed;
+    padding: 20px;
+    margin: 20px;
+    border-left: 5px solid #120c0c;
+    font-size:17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 0px 0px 40px 0px #000;
+    text-shadow: 0px 0px 5px #d31c71;
+}
+
+.fondo{
+    background: linear-gradient(to right,rgb(88, 4, 8),transparent);
+}
